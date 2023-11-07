@@ -10,6 +10,7 @@ body{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
+/* 	border:1px solid; */
 }
 form{
 	display:flex;
@@ -30,7 +31,6 @@ button{
 	background:#1877f2;
 	border-radius:5px;
 	padding:10px 20px;
-	
 }
 a{
 	text-decoration:none;
